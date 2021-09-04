@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poisonArrows.png">
+	<SubTexture name="greenScroll" x="0" y="0" width="486" height="478"/>
+	<SubTexture name="redScroll" x="486" y="0" width="476" height="548"/>
+	<SubTexture name="purpleScroll" x="0" y="545" width="478" height="550"/>
+	<SubTexture name="blueScroll" x="471" y="545" width="484" height="552"/>
+</TextureAtlas>
